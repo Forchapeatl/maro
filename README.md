@@ -120,11 +120,21 @@ of user-defined functions for message auto-handling, cluster provision, and job 
   - Mac OS / Linux
 
     ```sh
+    # move to MARO directory.
+    cd maro
+    ```
+
+    ```sh
     # Install MARO from source.
     bash scripts/install_maro.sh
     ```
 
   - Windows
+    
+    ```powershell
+    # move to MARO directory.
+    cd maro
+    ```
 
     ```powershell
     # Install MARO from source.
